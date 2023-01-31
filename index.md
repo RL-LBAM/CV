@@ -4,7 +4,7 @@ title: Zeping Li
 email:
   text: s2037105@ed.ac.uk
 phone:
-  text: 44-7529973628
+  (+44)-7529973628
 ---
 
 # Zeping **Li**
