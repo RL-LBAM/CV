@@ -2,8 +2,7 @@
 layout: cv
 title: Zeping Li
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  text: s2037105@ed.ac.uk
 homepage:
   url: http://cs.cmu.edu/~woden
   text: cs.cmu.edu/~woden
