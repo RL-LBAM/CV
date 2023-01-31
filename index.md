@@ -3,9 +3,8 @@ layout: cv
 title: Zeping Li
 email:
   text: s2037105@ed.ac.uk
-homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+phone:
+  text: 44-7529973628
 ---
 
 # Zeping **Li**
