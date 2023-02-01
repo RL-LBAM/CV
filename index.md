@@ -37,6 +37,9 @@ Coventry, UK
 ```
 
 MSc in Behavioural and Economic Science, 80/100
+
+
+
 Relevant Courses: Principles of Cognition, Neuroeconomics, Psychological Models of Choice, Bayesian Approaches in Behavioural Science
 
 ### **Zhejiang University** `09/2016–07/2020`
@@ -45,7 +48,7 @@ Relevant Courses: Principles of Cognition, Neuroeconomics, Psychological Models 
 Zhejiang, China
 ```
 
-BSc in Psychology, 86/100
+BSc in Psychology, 86/100  
 Relevant Courses: Calculus, Linear Algebra, Probability and Mathematical Statistics, Stochastic Process, Sampling Theory, Mathematical Physics
 
 ## Publications
