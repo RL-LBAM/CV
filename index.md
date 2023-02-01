@@ -21,32 +21,32 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **University of Edinburgh** `09/2022–09/2023(expected)`
 
 ```
-Pittsburgh, PA
+Edinburgh, UK
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+MSc in Artificial Intelligence
+Completed Courses and Scores: Machine Learning and Pattern Recognition (76), Accelerated Natural Language Processing (71), Machine Learning Practical (current average 77)
 
-### **Columbia University** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
+### **University of Warwick** `10/2020–10/2021`
 
 ```
-Carlisle, PA
+Coventry, UK
 ```
 
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+MSc in Behavioural and Economic Science, 80/100
+Relevant Courses: Principles of Cognition, Neuroeconomics, Psychological Models of Choice, Bayesian Approaches in Behavioural Science
+
+### **Zhejiang University** `09/2016–07/2020`
+
+```
+Zhejiang, China
+```
+
+BSc in Psychology, 86/100
+Relevant Courses: Calculus, Linear Algebra, Probability and Mathematical Statistics, Stochastic Process, Sampling Theory, Mathematical Physics
 
 ## Publications
 
