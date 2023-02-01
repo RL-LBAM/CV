@@ -80,12 +80,12 @@ Main work: Dataset retrieval; Model fitting and comparison; Dissertation writing
 ```
 Shenzhen, China
 ```
-*Data Analyst* 
+*Data Analyst*   
 Main work: Data dashboard development; Sales data analysis; User experience investigation
 
 
 ## Computational Skills
-**Programming:** MATLAB, Python, R, Sql  
+**Programming:** MATLAB, Python, R, SQL  
 **Statistics:** Stan, JASP, SPSS, PowerBI
 
 
