@@ -82,7 +82,7 @@ Main work: Data dashboard development; Sales data analysis; User experience inve
 
 
 ## Computational Skills
-**Programming:** MATLAB, Python, R, Sql
+**Programming:** MATLAB, Python, R, Sql  
 **Statistics:** Stan, JASP, SPSS, PowerBI
 
 
