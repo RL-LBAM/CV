@@ -27,7 +27,7 @@ Supported arguments:
 Edinburgh, UK
 ```
 
-MSc in Artificial Intelligence
+*MSc in Artificial Intelligence*
 
 
 
@@ -39,7 +39,7 @@ Completed Courses and Scores: Machine Learning and Pattern Recognition (76), Acc
 Coventry, UK
 ```
 
-MSc in Behavioural and Economic Science, 80/100
+*MSc in Behavioural and Economic Science* 80/100
 
 
 
@@ -51,7 +51,7 @@ Relevant Courses: Principles of Cognition, Neuroeconomics, Psychological Models 
 Zhejiang, China
 ```
 
-BSc in Psychology, 86/100  
+*BSc in Psychology* 86/100  
 Relevant Courses: Calculus, Linear Algebra, Probability and Mathematical Statistics, Stochastic Process, Sampling Theory, Mathematical Physics
 
 ## Research Experiences
@@ -77,7 +77,10 @@ Main work: Dataset retrieval; Model fitting and comparison; Dissertation writing
 
 ## Work Experience
 ### **Shokz** `05/2022–09/2022`
-*Data Analyst*  
+```
+Shenzhen, China
+```
+*Data Analyst* 
 Main work: Data dashboard development; Sales data analysis; User experience investigation
 
 
