@@ -56,7 +56,7 @@ Relevant Courses: Calculus, Linear Algebra, Probability and Mathematical Statist
 
 ## Research Experiences
 ### **Modelling Object Co-Occurences in Images with Deep Generative Models**
-*Supervisor: Professor Chris Williams
+*Supervisor: Professor Chris Williams*
 Modelled high-dimensional object count data from COCO dataset using VAE, discrete flow and diffusion models. Developed a sequence-to-set transformer varitational autoencoder regarding the sparse counts as sets of object embeddings and transforming sequence probabilities to set probabilities.
 
 ### **Human Probability Judgments: A Bayesian Sequential Sampler Account** `06/2021–09/2021`
