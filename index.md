@@ -31,7 +31,7 @@ Edinburgh, UK
 
 
 
-Completed Courses and Scores: Machine Learning and Pattern Recognition (76), Accelerated Natural Language Processing (71), Machine Learning Practical (current average 77)
+Relevant Courses: Machine Learning and Pattern Recognition; Machine Learning Practical; Probabilistic Modelling and Reasoning; Natural Language Understanding, Generation and Machine Translation
 
 ### **University of Warwick** `10/2020–10/2021`
 
@@ -43,7 +43,7 @@ Coventry, UK
 
 
 
-Relevant Courses: Principles of Cognition, Neuroeconomics, Psychological Models of Choice, Bayesian Approaches in Behavioural Science
+Relevant Courses: Principles of Cognition, Neuroeconomics, Behavioural Microeconomics, Psychological Models of Choice, Bayesian Approaches in Behavioural Science
 
 ### **Zhejiang University** `09/2016–07/2020`
 
@@ -55,21 +55,20 @@ Zhejiang, China
 Relevant Courses: Calculus, Linear Algebra, Probability and Mathematical Statistics, Stochastic Process, Sampling Theory, Mathematical Physics
 
 ## Research Experiences
+### **Modelling Object Co-Occurences in Images with Deep Generative Models**
+*Supervisor: Professor Chris Williams
+Modelled high-dimensional object count data from COCO dataset using VAE, discrete flow and diffusion models. Developed a sequence-to-set transformer varitational autoencoder regarding the sparse counts as sets of object embeddings and transforming sequence probabilities to set probabilities.
 
 ### **Human Probability Judgments: A Bayesian Sequential Sampler Account** `06/2021–09/2021`
-
-
 *Supervisors: Professor Adam Sanborn & Professor Nick Chater*  
-Main work: Data collection (online experiment); Model development, fitting and comparison; Dissertation writing
-
+Developed a diffusion-based model to explain human probability judgements. Collected data from online experiments and compared its variants with different stopping rules using the Wasserstein distance
 
 ### **A Model Comparison Study for Human Choices in Two-Armed Bandit Problems: Reinforcement Learning and Win-Stay-Loss-Shift Heuristics** `03/2020–07/2020`  
 *Supervisor: Associate Professor Junyi Dai*  
-Main work: Dataset retrieval; Model fitting and comparison; Dissertation writing
-
+Modelled human choices in two-armed bandit problems using temporal difference reinforcement learning and the win-stay-loss-shift heristics. Compared their variants with different learning rules on one-step-ahead and long term predictive abilities.
 
 ## Projects
-### **A Review of Bayesian Models of Human Cognition** `2021`
+### **Deep Bayesian Active Learning with Hybrid Query Strategies** `2023`
 ### **A Review of Sequential Sampling Models in Computational Cognitive Neuroscience** `2021`
 ### **A Comparison of Different Generalized Cognitive Hierarchy Models for Matrix Games** `2020`
 ### **The Effect of Background Information on Speed Perception in Three-Dimensional Space: A VR-Based Study** `2018`
@@ -81,7 +80,7 @@ Main work: Dataset retrieval; Model fitting and comparison; Dissertation writing
 Shenzhen, China
 ```
 *Data Analyst*   
-Main work: Data dashboard development; Sales data analysis; User experience investigation
+Developed and updated dashbroad of sales data. Predicted sales data during the promotion using time-series models.
 
 
 ## Computational Skills
@@ -92,4 +91,4 @@ Main work: Data dashboard development; Sales data analysis; User experience inve
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+-->
