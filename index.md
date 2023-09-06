@@ -2,9 +2,9 @@
 layout: cv
 title: Zeping Li
 email:
-  text: lzp632697@gmail.com
+  url: lzp632697@gmail.com
 homepage:
-  text: https://github.com/RL-LBAM/MyProjects
+  url: https://github.com/RL-LBAM/MyProjects
 ---
 
 # Zeping **Li**
