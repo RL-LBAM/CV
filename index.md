@@ -6,7 +6,7 @@ email:
 phone:
   (+86)-13515719723
 homepage:
-  https://github.com/RL-LBAM/MyProjects
+  github.com/RL-LBAM/MyProjects
 ---
 
 # Zeping **Li**
