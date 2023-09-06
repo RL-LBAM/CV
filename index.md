@@ -3,10 +3,8 @@ layout: cv
 title: Zeping Li
 email:
   text: lzp632697@gmail.com
-phone:
-  (+86)-13515719723
 homepage:
-  github.com/RL-LBAM/MyProjects
+  https://github.com/RL-LBAM/MyProjects
 ---
 
 # Zeping **Li**
