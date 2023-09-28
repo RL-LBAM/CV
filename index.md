@@ -55,6 +55,10 @@ Zhejiang, China
 Relevant Courses: Calculus; Linear Algebra; Probability and Mathematical Statistics; Stochastic Processes; Sampling Theory; Mathematical Physics
 
 ## Research Experiences
+### **SSVAT: Squence-to-set Variational Autoencoding Transformer for 3D Indoor Scene Synthesis** `09/2023–Now`
+*Supervisor: Professor Chris Williams*  
+Tested a sequence-to-set generative model in 3D indoor scene synthesis.
+
 ### **Modelling Object Co-Occurences in Images** `02/2023–09/2023`
 *Supervisor: Professor Chris Williams*  
 Modelled high-dimensional object count data from COCO dataset using VAE, mixture, discrete flow and diffusion models. Developed a sequence-to-set variational autoencoding transformer modeling the sparse counts as sets. Compared the models using the likelihood and the sample quality (introducing a discriminator network).
@@ -70,9 +74,9 @@ Modelled human choices in two-armed bandit problems using the temporal differenc
 ## Projects
 ### **Deep Bayesian Active Learning with Hybrid Query Strategies** `2023`
 ### **Machine Translation Systems with Transformers Using Lexical Models** `2023`
+### **A Review of Dirichlet Process Mixture Models for Clustering and Density Estimation** `2023`
 ### **A Review of Sequential Sampling Models in Computational Cognitive Neuroscience** `2021`
 ### **A Comparison of Different Generalized Cognitive Hierarchy Models for Matrix Games** `2020`
-### **The Effect of Background Information on Speed Perception in Three-Dimensional Spaces: A VR-Based Study** `2018`
 
 
 ## Work Experience
@@ -83,10 +87,19 @@ Shenzhen, China
 *Data Analyst*   
 Developed and updated the dashboard of sales data. Predicted sales data during the promotion using time-series models.
 
+### **Openverse** `09/2023–Now`
+```
+Hangzhou, China
+```
+*Multimodal Research Engineer* 
+Clustered blackhole images based on painting styles using the BLIP model with prompting tricks. Finetuned the diffusion model to generate blackhole images in different styles. Injected domain knowledge to the generative models to generate correct scientific images.
 
 ## Computational Skills
-**Programming:** MATLAB, Python, R, SQL  
+**Programming:** MATLAB, Python(Numpy, Pytorch), R(Tidyverse), SQL  
 **Statistics:** Stan, JASP, SPSS, PowerBI
+## Research Interests
+Probabilistic/Bayesian machine learning, Generative models, Neural-network-enhanced statistical learning
+
 
 
 
