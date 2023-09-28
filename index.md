@@ -74,7 +74,7 @@ Modelled human choices in two-armed bandit problems using the temporal differenc
 ## Projects
 ### **Deep Bayesian Active Learning with Hybrid Query Strategies** `2023`
 ### **Machine Translation Systems with Transformers Using Lexical Models** `2023`
-### **A Review of Dirichlet Process Mixture Models for Clustering and Density Estimation** `2023`
+### **A Review of Dirichlet Process Mixture Models for Clustering and Density Estimation** `2022`
 ### **A Review of Sequential Sampling Models in Computational Cognitive Neuroscience** `2021`
 ### **A Comparison of Different Generalized Cognitive Hierarchy Models for Matrix Games** `2020`
 
