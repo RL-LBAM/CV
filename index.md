@@ -39,7 +39,7 @@ Relevant Courses: Machine Learning and Pattern Recognition; Machine Learning Pra
 Coventry, UK
 ```
 
-*MSc in Behavioural and Economic Science* 80/100
+*MSc in Behavioural and Economic Science* 80/100 (ranked first)
 
 
 
@@ -92,6 +92,7 @@ Developed and updated the dashboard of sales data. Predicted sales data during t
 Hangzhou, China
 ```
 *Multimodal Research Engineer* 
+
 Clustered blackhole images based on painting styles using the BLIP model with prompting tricks. Finetuned the diffusion model to generate blackhole images in different styles. Injected domain knowledge to the generative models to generate correct scientific images.
 
 ## Computational Skills
