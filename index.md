@@ -57,7 +57,7 @@ Relevant Courses: Calculus; Linear Algebra; Probability and Mathematical Statist
 ## Research Experiences
 ### **SSVAT: Squence-to-set Variational Autoencoding Transformer for 3D Indoor Scene Synthesis** `09/2023–Now`
 *Supervisor: Professor Chris Williams*  
-Tested a sequence-to-set generative model in 3D indoor scene synthesis.
+Plan to a sequence-to-set generative model in 3D indoor scene synthesis.
 
 ### **Modelling Object Co-Occurences in Images** `02/2023–09/2023`
 *Supervisor: Professor Chris Williams*  
@@ -93,13 +93,13 @@ Hangzhou, China
 ```
 *Multimodal Research Engineer* 
 
-Clustered blackhole images based on painting styles using the BLIP model with prompting tricks. Finetuned the diffusion model to generate blackhole images in different styles. Injected domain knowledge to the generative models to generate correct scientific images.
+Clustered blackhole images based on painting styles using the BLIP model with prompting tricks. Finetuned the diffusion model to generate blackhole images in different styles. Plan to domain knowledge to the generative models to generate correct scientific images.
 
 ## Computational Skills
 **Programming:** MATLAB, Python(Numpy, Pytorch), R(Tidyverse), SQL  
 **Statistics:** Stan, JASP, SPSS, PowerBI
 ## Research Interests
-Probabilistic/Bayesian machine learning, Generative models, Neural-network-enhanced statistical learning
+I used to be a fan of cognitive modeling, which views the mind as a computing machine with noise. Now I focus more on probabilistic (mainly Bayesian) machine learning, no matter for the statistical learning part (e.g., Bayesian nonparametrics), or the more fashionable deep learning part (e.g., deep generative models). I am recently interested in incorporating neural networks into the statistical learning framework. For example, VAE extends factor analysis by introducing the nonlinear mapping between latent and observed variables.
 
 
 
