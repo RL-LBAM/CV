@@ -4,7 +4,7 @@ title: Zeping Li
 email:
   text: lzp632697@gmail.com
 homepage:
-  text: https://github.com/RL-LBAM/MyProjects
+  text: https://github.com/RL-LBAM/MyProjects (project report repository)
 ---
 
 # Zeping **Li**
@@ -55,13 +55,14 @@ Zhejiang, China
 Relevant Courses: Calculus; Linear Algebra; Probability and Mathematical Statistics; Stochastic Processes; Sampling Theory; Mathematical Physics
 
 ## Research Experiences
-### **SSVAT: Squence-to-set Variational Autoencoding Transformer for 3D Indoor Scene Synthesis** `09/2023–Now`
-*Supervisor: Professor Chris Williams*  
-Plan to test a sequence-to-set generative model in 3D indoor scene synthesis.
 
 ### **Modelling Object Co-Occurences in Images** `02/2023–09/2023`
 *Supervisor: Professor Chris Williams*  
-Modelled high-dimensional object count data from COCO dataset using VAE, mixture, discrete flow and diffusion models. Developed a sequence-to-set variational autoencoding transformer modeling the sparse counts as sets. Compared the models using the test set likelihood and the sample quality (introducing a discriminator network).
+Modelled high-dimensional object count data from COCO dataset using VAE, mixture, discrete flow and diffusion models. 
+
+Developed a sequence-to-set variational autoencoding transformer modeling the sparse counts as sets. 
+
+Compared the models using the test set likelihood and the sample quality (introducing a discriminator network).
 
 ### **Human Probability Judgments: A Bayesian Sequential Sampler Account** `02/2021–09/2021`
 *Supervisors: Professor Adam Sanborn & Professor Nick Chater*  
