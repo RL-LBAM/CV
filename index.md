@@ -64,8 +64,20 @@ Developed a sequence-to-set variational autoencoding transformer modeling the sp
 
 Compared the models using the test set likelihood and the sample quality (introducing a discriminator network).
 
+Found the sequence-to-set model achieved the best test set likelihood, while the discrete diffusion model generated samples closest to the empirical data.
+
+### **Deep Bayesian Active Learning with Hybrid Query Strategies** `01/2023–05/2023` 
+*Team Work*
+Proposed 2 computationally efficient metrics to measure the distance between a single data point and a group of data points.
+
+Developed 54 hybrid query strategies (3 uncertainty metrics * 3 diversity metrics * 6 combination methods).
+
+Compared the hybrid and pure query strategies in 2 image classifiacation tasks using deep Bayesian (implemented by MC dropout) active learning.
+
+Found the hybrid query strategies performed better in the difficult task. Their advantage decreased but still existed with more queried data points.
+
 ### **Human Probability Judgments: A Bayesian Sequential Sampler Account** `02/2021–09/2021`
-*Supervisors: Professor Adam Sanborn & Professor Nick Chater*  
+*Supervisors: Professor Adam Sanborn & Professor Nick Chater & Doctor Jianqiao Zhu*  
 Developed a sampling-based model to explain human probability judgments as Bayesian inference. 
 
 Collected data from online experiments. 
@@ -73,6 +85,8 @@ Collected data from online experiments.
 Fitted the model using moment matching between the simulated and empirical data. 
 
 Compared its variants with different stopping rules using the Wasserstein distance between the simulated and empirical distributions.
+
+Found task condition (accuracy emphasized/speed emphasized/difficult perceptual input) could change the choice of stopping rule and the underlying cognitive processes.
 
 ### **A Model Comparison Study for Human Choices in Two-Armed Bandit Problems: Reinforcement Learning and Win-Stay-Loss-Shift Heuristics** `09/2019–07/2020`  
 *Supervisor: Associate Professor Junyi Dai*  
@@ -82,8 +96,9 @@ Fitted the models using maximum likelihood.
 
 Compared their variants with different learning rules on one-step-ahead (BIC and test set likelihood) and long term predictive abilities (MSE between the simulated and empirical choice sequences).
 
+Found the heuristic model explained the human choices better.
+
 ## Projects
-### **Deep Bayesian Active Learning with Hybrid Query Strategies** `2023`
 ### **Machine Translation Systems with Transformers Using Lexical Models** `2023`
 ### **A Review of Dirichlet Process Mixture Models for Clustering and Density Estimation** `2022`
 ### **A Review of Sequential Sampling Models in Computational Cognitive Neuroscience** `2021`
